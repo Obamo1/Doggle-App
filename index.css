@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url('https://st.depositphotos.com/1003366/4245/i/950/depositphotos_42451537-stock-photo-group-of-dogs.jpg');
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-decoration: solid;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+form {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+input{
+  width: 100px;
+  box-sizing: border-box;  
+  margin-top: 20px;
+}
+
+
